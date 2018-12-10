@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "sdkVersion": "29.0.0",
+    "name": "Puppies",
+    "slug": "Puppies",
+    "version": "1.0.0",
+    "description": "Get a lot of Puppies !",
+    "orientation":"portrait",
+    "icon": "./src/assets/icon.png",
+    "splash": {
+      "image":"./src/assets/splash.png", 
+      "backgroundColor": "#9CFFE4",
+      "resizeMode":"cover"
+    }
+  }
+}
