@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "exp": "^57.0.1",
-    "expo": "^29.0.0",
+    "expo": "^46.0.14",
     "firebase": "^5.4.2",
     "native-base": "^2.8.0",
     "react": "^16.4.1",
